@@ -25,6 +25,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+### .classpath ###
+.classpath
+
 # Build #
 target/
 
